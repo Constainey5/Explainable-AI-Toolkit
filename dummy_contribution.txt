@@ -308,3 +308,4 @@ Commit on 2026-12-11 13:14:46: perf: Optimize Explainable-AI-Toolkit performance
 Commit on 2026-12-15 13:18:20: style: Format code according to standards in Explainable-AI-Toolkit
 Commit on 2026-12-28 14:47:49: Enhance model architecture in Explainable-AI-Toolkit
 Commit on 2026-12-29 11:06:48: Enhance frontend in Explainable-AI-Toolkit
+Commit on 2026-12-30 10:28:31: docs: Update README for Explainable-AI-Toolkit
