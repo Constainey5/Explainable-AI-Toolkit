@@ -1,1 +1,2 @@
 Commit on 2023-01-12 11:35:50: style: Format code according to standards in Explainable-AI-Toolkit
+Commit on 2023-01-12 13:29:32: Enhance inference engine in Explainable-AI-Toolkit
