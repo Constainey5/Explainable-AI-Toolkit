@@ -3,3 +3,4 @@ Commit on 2023-01-12 13:29:32: Enhance inference engine in Explainable-AI-Toolki
 Commit on 2023-01-17 10:08:59: Enhance model architecture in Explainable-AI-Toolkit
 Commit on 2023-01-17 16:00:08: fix: Resolve bug in Explainable-AI-Toolkit module
 Commit on 2023-01-18 14:31:00: fix: Resolve bug in Explainable-AI-Toolkit module
+Commit on 2023-01-20 12:50:50: Enhance inference engine in Explainable-AI-Toolkit
