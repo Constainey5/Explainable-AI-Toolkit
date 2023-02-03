@@ -8,3 +8,4 @@ Commit on 2023-01-20 15:52:31: ci: Configure CI/CD pipeline for Explainable-AI-T
 Commit on 2023-01-20 17:01:20: Implement user authentication in Explainable-AI-Toolkit
 Commit on 2023-01-25 16:33:38: build: Update build configuration for Explainable-AI-Toolkit
 Commit on 2023-02-02 12:18:12: build: Update build configuration for Explainable-AI-Toolkit
+Commit on 2023-02-03 11:46:08: docs: Update README for Explainable-AI-Toolkit
