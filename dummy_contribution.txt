@@ -10,3 +10,4 @@ Commit on 2023-01-25 16:33:38: build: Update build configuration for Explainable
 Commit on 2023-02-02 12:18:12: build: Update build configuration for Explainable-AI-Toolkit
 Commit on 2023-02-03 11:46:08: docs: Update README for Explainable-AI-Toolkit
 Commit on 2023-02-08 11:08:12: ci: Configure CI/CD pipeline for Explainable-AI-Toolkit
+Commit on 2023-02-10 12:44:58: feat: Add new feature for Explainable-AI-Toolkit
