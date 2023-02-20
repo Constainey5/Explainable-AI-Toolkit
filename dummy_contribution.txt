@@ -13,3 +13,4 @@ Commit on 2023-02-08 11:08:12: ci: Configure CI/CD pipeline for Explainable-AI-T
 Commit on 2023-02-10 12:44:58: feat: Add new feature for Explainable-AI-Toolkit
 Commit on 2023-02-14 09:12:13: Implement logging mechanism in Explainable-AI-Toolkit
 Commit on 2023-02-15 13:23:42: perf: Optimize Explainable-AI-Toolkit performance
+Commit on 2023-02-20 10:40:30: feat: Add new feature for Explainable-AI-Toolkit
