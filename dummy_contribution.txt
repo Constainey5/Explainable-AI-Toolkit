@@ -17,3 +17,4 @@ Commit on 2023-02-20 10:40:30: feat: Add new feature for Explainable-AI-Toolkit
 Commit on 2023-02-23 15:45:00: fix: Resolve bug in Explainable-AI-Toolkit module
 Commit on 2023-02-23 16:23:30: feat: Add new feature for Explainable-AI-Toolkit
 Commit on 2023-03-02 14:43:19: docs: Update README for Explainable-AI-Toolkit
+Commit on 2023-03-03 10:06:31: ci: Configure CI/CD pipeline for Explainable-AI-Toolkit
