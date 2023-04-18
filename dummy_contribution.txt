@@ -24,3 +24,4 @@ Commit on 2023-03-22 11:55:06: Initial commit for Explainable-AI-Toolkit
 Commit on 2023-04-04 12:14:00: docs: Update README for Explainable-AI-Toolkit
 Commit on 2023-04-06 11:11:10: test: Add unit tests for Explainable-AI-Toolkit functionality
 Commit on 2023-04-17 10:56:46: chore: Update dependencies for Explainable-AI-Toolkit
+Commit on 2023-04-18 17:02:52: build: Update build configuration for Explainable-AI-Toolkit
