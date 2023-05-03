@@ -27,3 +27,4 @@ Commit on 2023-04-17 10:56:46: chore: Update dependencies for Explainable-AI-Too
 Commit on 2023-04-18 17:02:52: build: Update build configuration for Explainable-AI-Toolkit
 Commit on 2023-04-25 11:23:48: Merge pull request #88 from feature/api-integration
 Commit on 2023-04-28 14:00:39: Enhance configuration management in Explainable-AI-Toolkit
+Commit on 2023-05-03 13:20:31: perf: Optimize Explainable-AI-Toolkit performance
