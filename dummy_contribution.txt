@@ -30,3 +30,4 @@ Commit on 2023-04-28 14:00:39: Enhance configuration management in Explainable-A
 Commit on 2023-05-03 13:20:31: perf: Optimize Explainable-AI-Toolkit performance
 Commit on 2023-05-19 11:02:12: Enhance frontend in Explainable-AI-Toolkit
 Commit on 2023-05-19 11:28:39: Merge pull request #99 from feature/ui-improvements
+Commit on 2023-05-30 11:06:30: feat: Add new feature for Explainable-AI-Toolkit
