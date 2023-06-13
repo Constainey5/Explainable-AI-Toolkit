@@ -32,3 +32,4 @@ Commit on 2023-05-19 11:02:12: Enhance frontend in Explainable-AI-Toolkit
 Commit on 2023-05-19 11:28:39: Merge pull request #99 from feature/ui-improvements
 Commit on 2023-05-30 11:06:30: feat: Add new feature for Explainable-AI-Toolkit
 Commit on 2023-06-13 13:38:23: feat: Add new feature for Explainable-AI-Toolkit
+Commit on 2023-06-13 16:33:30: Merge pull request #4 from feature/model-training
