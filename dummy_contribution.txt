@@ -36,3 +36,4 @@ Commit on 2023-06-13 16:33:30: Merge pull request #4 from feature/model-training
 Commit on 2023-06-14 12:28:30: refactor: Improve code readability in Explainable-AI-Toolkit
 Commit on 2023-06-21 09:21:47: Fix off-by-one error in Explainable-AI-Toolkit
 Commit on 2023-06-28 10:09:06: Fix incorrect data parsing in Explainable-AI-Toolkit
+Commit on 2023-07-06 10:18:19: build: Update build configuration for Explainable-AI-Toolkit
