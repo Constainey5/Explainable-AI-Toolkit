@@ -41,3 +41,4 @@ Commit on 2023-07-07 13:51:09: feat: Add new feature for Explainable-AI-Toolkit
 Commit on 2023-07-21 17:37:20: fix: Resolve bug in Explainable-AI-Toolkit module
 Commit on 2023-07-24 10:04:29: Merge pull request #42 from feature/error-handling
 Commit on 2023-08-03 13:20:53: Enhance model architecture in Explainable-AI-Toolkit
+Commit on 2023-08-07 16:11:30: docs: Update README for Explainable-AI-Toolkit
