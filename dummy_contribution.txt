@@ -54,3 +54,4 @@ Commit on 2023-09-19 09:21:33: Fix off-by-one error in Explainable-AI-Toolkit
 Commit on 2023-09-19 12:48:29: Enhance model architecture in Explainable-AI-Toolkit
 Commit on 2023-09-19 15:06:34: chore: Update dependencies for Explainable-AI-Toolkit
 Commit on 2023-09-20 11:57:50: test: Add unit tests for Explainable-AI-Toolkit functionality
+Commit on 2023-09-21 15:20:22: ci: Configure CI/CD pipeline for Explainable-AI-Toolkit
