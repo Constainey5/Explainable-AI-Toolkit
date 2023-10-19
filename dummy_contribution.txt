@@ -59,3 +59,4 @@ Commit on 2023-09-26 14:03:24: Initial commit for Explainable-AI-Toolkit
 Commit on 2023-09-27 14:25:32: fix: Resolve bug in Explainable-AI-Toolkit module
 Commit on 2023-10-05 09:42:20: refactor: Improve code readability in Explainable-AI-Toolkit
 Commit on 2023-10-11 16:32:04: Enhance data loader in Explainable-AI-Toolkit
+Commit on 2023-10-19 15:31:19: ci: Configure CI/CD pipeline for Explainable-AI-Toolkit
