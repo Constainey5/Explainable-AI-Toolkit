@@ -61,3 +61,4 @@ Commit on 2023-10-05 09:42:20: refactor: Improve code readability in Explainable
 Commit on 2023-10-11 16:32:04: Enhance data loader in Explainable-AI-Toolkit
 Commit on 2023-10-19 15:31:19: ci: Configure CI/CD pipeline for Explainable-AI-Toolkit
 Commit on 2023-10-25 09:46:57: style: Format code according to standards in Explainable-AI-Toolkit
+Commit on 2023-10-25 15:02:16: perf: Optimize Explainable-AI-Toolkit performance
