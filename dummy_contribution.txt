@@ -71,3 +71,4 @@ Commit on 2023-12-06 17:59:04: refactor: Improve code readability in Explainable
 Commit on 2023-12-07 14:18:03: style: Format code according to standards in Explainable-AI-Toolkit
 Commit on 2023-12-08 09:27:50: test: Add unit tests for Explainable-AI-Toolkit functionality
 Commit on 2023-12-12 11:00:42: Fix off-by-one error in Explainable-AI-Toolkit
+Commit on 2023-12-12 14:38:37: feat: Add new feature for Explainable-AI-Toolkit
