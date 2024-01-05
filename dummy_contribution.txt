@@ -76,3 +76,4 @@ Commit on 2023-12-18 09:43:59: Initial commit for Explainable-AI-Toolkit
 Commit on 2023-12-22 15:09:50: chore: Update dependencies for Explainable-AI-Toolkit
 Commit on 2023-12-26 12:18:18: build: Update build configuration for Explainable-AI-Toolkit
 Commit on 2024-01-03 16:45:43: Implement caching strategy in Explainable-AI-Toolkit
+Commit on 2024-01-05 09:47:05: test: Add unit tests for Explainable-AI-Toolkit functionality
