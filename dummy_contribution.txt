@@ -78,3 +78,4 @@ Commit on 2023-12-26 12:18:18: build: Update build configuration for Explainable
 Commit on 2024-01-03 16:45:43: Implement caching strategy in Explainable-AI-Toolkit
 Commit on 2024-01-05 09:47:05: test: Add unit tests for Explainable-AI-Toolkit functionality
 Commit on 2024-01-08 16:57:11: Fix incorrect data parsing in Explainable-AI-Toolkit
+Commit on 2024-01-12 10:13:48: style: Format code according to standards in Explainable-AI-Toolkit
