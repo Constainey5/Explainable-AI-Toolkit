@@ -80,3 +80,4 @@ Commit on 2024-01-05 09:47:05: test: Add unit tests for Explainable-AI-Toolkit f
 Commit on 2024-01-08 16:57:11: Fix incorrect data parsing in Explainable-AI-Toolkit
 Commit on 2024-01-12 10:13:48: style: Format code according to standards in Explainable-AI-Toolkit
 Commit on 2024-01-22 14:49:37: perf: Optimize Explainable-AI-Toolkit performance
+Commit on 2024-01-26 14:20:25: refactor: Improve code readability in Explainable-AI-Toolkit
