@@ -84,3 +84,4 @@ Commit on 2024-01-26 14:20:25: refactor: Improve code readability in Explainable
 Commit on 2024-02-01 14:52:33: Enhance backend service in Explainable-AI-Toolkit
 Commit on 2024-02-05 09:29:12: Implement API endpoint in Explainable-AI-Toolkit
 Commit on 2024-02-05 10:20:15: Implement user authentication in Explainable-AI-Toolkit
+Commit on 2024-02-12 15:03:57: feat: Add new feature for Explainable-AI-Toolkit
