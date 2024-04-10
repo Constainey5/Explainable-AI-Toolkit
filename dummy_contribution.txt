@@ -94,3 +94,4 @@ Commit on 2024-03-25 14:22:19: style: Format code according to standards in Expl
 Commit on 2024-03-27 10:10:48: docs: Update README for Explainable-AI-Toolkit
 Commit on 2024-04-01 13:24:35: chore: Update dependencies for Explainable-AI-Toolkit
 Commit on 2024-04-10 12:02:55: fix: Resolve bug in Explainable-AI-Toolkit module
+Commit on 2024-04-10 14:22:44: ci: Configure CI/CD pipeline for Explainable-AI-Toolkit
