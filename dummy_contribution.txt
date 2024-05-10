@@ -98,3 +98,4 @@ Commit on 2024-04-10 14:22:44: ci: Configure CI/CD pipeline for Explainable-AI-T
 Commit on 2024-04-17 16:46:38: style: Format code according to standards in Explainable-AI-Toolkit
 Commit on 2024-04-30 17:51:03: Merge pull request #95 from feature/user-auth
 Commit on 2024-05-03 12:06:46: Merge pull request #32 from feature/security-patches
+Commit on 2024-05-10 13:50:41: Initial commit for Explainable-AI-Toolkit
