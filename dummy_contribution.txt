@@ -103,3 +103,4 @@ Commit on 2024-05-10 15:22:14: Fix incorrect data parsing in Explainable-AI-Tool
 Commit on 2024-05-13 12:03:46: refactor: Improve code readability in Explainable-AI-Toolkit
 Commit on 2024-05-14 10:58:07: docs: Update README for Explainable-AI-Toolkit
 Commit on 2024-05-16 10:30:43: style: Format code according to standards in Explainable-AI-Toolkit
+Commit on 2024-05-16 16:21:22: Enhance model architecture in Explainable-AI-Toolkit
