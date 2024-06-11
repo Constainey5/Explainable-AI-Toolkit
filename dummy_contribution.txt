@@ -107,3 +107,4 @@ Commit on 2024-05-16 16:21:22: Enhance model architecture in Explainable-AI-Tool
 Commit on 2024-05-21 14:37:48: chore: Update dependencies for Explainable-AI-Toolkit
 Commit on 2024-05-23 17:48:46: style: Format code according to standards in Explainable-AI-Toolkit
 Commit on 2024-05-30 11:30:53: Merge pull request #18 from feature/api-integration
+Commit on 2024-06-11 10:07:52: feat: Add new feature for Explainable-AI-Toolkit
