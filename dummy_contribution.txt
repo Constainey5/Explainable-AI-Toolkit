@@ -110,3 +110,4 @@ Commit on 2024-05-30 11:30:53: Merge pull request #18 from feature/api-integrati
 Commit on 2024-06-11 10:07:52: feat: Add new feature for Explainable-AI-Toolkit
 Commit on 2024-06-13 13:45:10: Initial commit for Explainable-AI-Toolkit
 Commit on 2024-06-19 17:46:48: docs: Update README for Explainable-AI-Toolkit
+Commit on 2024-06-24 15:10:02: build: Update build configuration for Explainable-AI-Toolkit
