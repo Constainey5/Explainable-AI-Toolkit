@@ -113,3 +113,4 @@ Commit on 2024-06-19 17:46:48: docs: Update README for Explainable-AI-Toolkit
 Commit on 2024-06-24 15:10:02: build: Update build configuration for Explainable-AI-Toolkit
 Commit on 2024-06-26 14:16:56: Initial commit for Explainable-AI-Toolkit
 Commit on 2024-06-28 15:19:18: perf: Optimize Explainable-AI-Toolkit performance
+Commit on 2024-07-03 14:54:58: feat: Add new feature for Explainable-AI-Toolkit
