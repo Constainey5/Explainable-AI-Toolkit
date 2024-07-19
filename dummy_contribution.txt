@@ -117,3 +117,4 @@ Commit on 2024-07-03 14:54:58: feat: Add new feature for Explainable-AI-Toolkit
 Commit on 2024-07-08 13:27:39: test: Add unit tests for Explainable-AI-Toolkit functionality
 Commit on 2024-07-10 11:58:20: feat: Add new feature for Explainable-AI-Toolkit
 Commit on 2024-07-15 14:28:13: Initial commit for Explainable-AI-Toolkit
+Commit on 2024-07-19 16:24:41: style: Format code according to standards in Explainable-AI-Toolkit
