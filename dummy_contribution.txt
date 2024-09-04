@@ -130,3 +130,4 @@ Commit on 2024-08-21 15:01:45: chore: Update dependencies for Explainable-AI-Too
 Commit on 2024-08-23 11:35:38: test: Add unit tests for Explainable-AI-Toolkit functionality
 Commit on 2024-08-26 16:05:38: refactor: Improve code readability in Explainable-AI-Toolkit
 Commit on 2024-09-04 13:36:32: fix: Resolve bug in Explainable-AI-Toolkit module
+Commit on 2024-09-04 14:21:22: perf: Optimize Explainable-AI-Toolkit performance
