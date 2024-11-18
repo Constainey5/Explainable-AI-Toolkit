@@ -144,3 +144,4 @@ Commit on 2024-10-22 15:48:39: build: Update build configuration for Explainable
 Commit on 2024-10-25 09:20:56: refactor: Improve code readability in Explainable-AI-Toolkit
 Commit on 2024-11-05 16:43:24: style: Format code according to standards in Explainable-AI-Toolkit
 Commit on 2024-11-15 13:52:07: Initial commit for Explainable-AI-Toolkit
+Commit on 2024-11-18 17:07:13: chore: Update dependencies for Explainable-AI-Toolkit
