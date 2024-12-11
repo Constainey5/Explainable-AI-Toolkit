@@ -149,3 +149,4 @@ Commit on 2024-11-19 10:57:30: ci: Configure CI/CD pipeline for Explainable-AI-T
 Commit on 2024-11-21 17:12:30: Initial commit for Explainable-AI-Toolkit
 Commit on 2024-11-28 12:55:22: Fix UI glitch in Explainable-AI-Toolkit
 Commit on 2024-12-02 11:22:15: test: Add unit tests for Explainable-AI-Toolkit functionality
+Commit on 2024-12-11 12:44:14: style: Format code according to standards in Explainable-AI-Toolkit
