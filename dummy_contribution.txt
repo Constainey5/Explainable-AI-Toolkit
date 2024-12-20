@@ -152,3 +152,4 @@ Commit on 2024-12-02 11:22:15: test: Add unit tests for Explainable-AI-Toolkit f
 Commit on 2024-12-11 12:44:14: style: Format code according to standards in Explainable-AI-Toolkit
 Commit on 2024-12-13 12:28:37: chore: Update dependencies for Explainable-AI-Toolkit
 Commit on 2024-12-18 12:17:36: perf: Optimize Explainable-AI-Toolkit performance
+Commit on 2024-12-20 17:53:41: Enhance data loader in Explainable-AI-Toolkit
