@@ -160,3 +160,4 @@ Commit on 2024-12-31 09:43:03: perf: Optimize Explainable-AI-Toolkit performance
 Commit on 2025-01-06 15:38:26: ci: Configure CI/CD pipeline for Explainable-AI-Toolkit
 Commit on 2025-01-20 12:49:58: docs: Update README for Explainable-AI-Toolkit
 Commit on 2025-01-23 16:30:31: ci: Configure CI/CD pipeline for Explainable-AI-Toolkit
+Commit on 2025-02-07 12:51:53: fix: Resolve bug in Explainable-AI-Toolkit module
