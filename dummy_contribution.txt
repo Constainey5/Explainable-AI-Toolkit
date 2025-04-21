@@ -172,3 +172,4 @@ Commit on 2025-03-20 09:13:23: Implement user authentication in Explainable-AI-T
 Commit on 2025-03-20 11:39:32: Enhance model architecture in Explainable-AI-Toolkit
 Commit on 2025-03-21 10:45:19: build: Update build configuration for Explainable-AI-Toolkit
 Commit on 2025-04-01 11:43:10: perf: Optimize Explainable-AI-Toolkit performance
+Commit on 2025-04-21 12:40:23: style: Format code according to standards in Explainable-AI-Toolkit
