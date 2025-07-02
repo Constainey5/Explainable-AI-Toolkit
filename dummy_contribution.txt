@@ -190,3 +190,4 @@ Commit on 2025-06-10 12:30:01: chore: Update dependencies for Explainable-AI-Too
 Commit on 2025-06-24 12:17:39: Implement data validation in Explainable-AI-Toolkit
 Commit on 2025-06-24 17:44:14: Fix API response format in Explainable-AI-Toolkit
 Commit on 2025-06-26 17:12:21: chore: Update dependencies for Explainable-AI-Toolkit
+Commit on 2025-07-02 15:41:25: docs: Update README for Explainable-AI-Toolkit
