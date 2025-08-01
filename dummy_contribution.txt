@@ -193,3 +193,4 @@ Commit on 2025-06-26 17:12:21: chore: Update dependencies for Explainable-AI-Too
 Commit on 2025-07-02 15:41:25: docs: Update README for Explainable-AI-Toolkit
 Commit on 2025-07-08 16:33:00: Enhance backend service in Explainable-AI-Toolkit
 Commit on 2025-07-24 09:47:00: refactor: Improve code readability in Explainable-AI-Toolkit
+Commit on 2025-08-01 15:52:23: fix: Resolve bug in Explainable-AI-Toolkit module
