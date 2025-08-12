@@ -195,3 +195,4 @@ Commit on 2025-07-08 16:33:00: Enhance backend service in Explainable-AI-Toolkit
 Commit on 2025-07-24 09:47:00: refactor: Improve code readability in Explainable-AI-Toolkit
 Commit on 2025-08-01 15:52:23: fix: Resolve bug in Explainable-AI-Toolkit module
 Commit on 2025-08-12 15:06:19: ci: Configure CI/CD pipeline for Explainable-AI-Toolkit
+Commit on 2025-08-12 17:01:00: fix: Resolve bug in Explainable-AI-Toolkit module
