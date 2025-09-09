@@ -202,3 +202,4 @@ Commit on 2025-08-22 17:16:06: refactor: Improve code readability in Explainable
 Commit on 2025-09-04 11:34:19: Merge pull request #27 from feature/api-integration
 Commit on 2025-09-04 16:11:15: feat: Add new feature for Explainable-AI-Toolkit
 Commit on 2025-09-08 13:08:34: style: Format code according to standards in Explainable-AI-Toolkit
+Commit on 2025-09-09 13:39:06: chore: Update dependencies for Explainable-AI-Toolkit
