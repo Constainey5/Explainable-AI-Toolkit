@@ -205,3 +205,4 @@ Commit on 2025-09-08 13:08:34: style: Format code according to standards in Expl
 Commit on 2025-09-09 13:39:06: chore: Update dependencies for Explainable-AI-Toolkit
 Commit on 2025-09-09 16:24:38: Implement database schema in Explainable-AI-Toolkit
 Commit on 2025-09-23 12:04:06: feat: Add new feature for Explainable-AI-Toolkit
+Commit on 2025-09-25 10:55:52: Enhance frontend in Explainable-AI-Toolkit
