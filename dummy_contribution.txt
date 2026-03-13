@@ -235,3 +235,4 @@ Commit on 2026-02-24 12:52:19: Merge pull request #68 from feature/performance-t
 Commit on 2026-03-11 12:58:55: style: Format code according to standards in Explainable-AI-Toolkit
 Commit on 2026-03-11 16:44:14: Implement database schema in Explainable-AI-Toolkit
 Commit on 2026-03-12 09:59:00: style: Format code according to standards in Explainable-AI-Toolkit
+Commit on 2026-03-13 12:53:31: test: Add unit tests for Explainable-AI-Toolkit functionality
