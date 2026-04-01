@@ -238,3 +238,4 @@ Commit on 2026-03-12 09:59:00: style: Format code according to standards in Expl
 Commit on 2026-03-13 12:53:31: test: Add unit tests for Explainable-AI-Toolkit functionality
 Commit on 2026-03-30 10:11:31: Fix incorrect data parsing in Explainable-AI-Toolkit
 Commit on 2026-03-30 11:42:40: docs: Update README for Explainable-AI-Toolkit
+Commit on 2026-04-01 09:43:10: build: Update build configuration for Explainable-AI-Toolkit
