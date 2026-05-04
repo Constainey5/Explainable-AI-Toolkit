@@ -244,3 +244,4 @@ Commit on 2026-04-15 13:38:36: Enhance frontend in Explainable-AI-Toolkit
 Commit on 2026-04-17 11:51:40: Fix off-by-one error in Explainable-AI-Toolkit
 Commit on 2026-04-22 09:02:37: docs: Update README for Explainable-AI-Toolkit
 Commit on 2026-04-29 14:35:21: Merge pull request #25 from feature/ui-improvements
+Commit on 2026-05-04 16:25:52: Enhance model architecture in Explainable-AI-Toolkit
