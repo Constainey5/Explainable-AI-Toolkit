@@ -256,3 +256,4 @@ Commit on 2026-05-20 14:04:55: ci: Configure CI/CD pipeline for Explainable-AI-T
 Commit on 2026-06-01 10:29:05: style: Format code according to standards in Explainable-AI-Toolkit
 Commit on 2026-06-02 14:23:51: Implement logging mechanism in Explainable-AI-Toolkit
 Commit on 2026-06-16 15:17:13: Initial commit for Explainable-AI-Toolkit
+Commit on 2026-06-17 12:25:48: Enhance frontend in Explainable-AI-Toolkit
