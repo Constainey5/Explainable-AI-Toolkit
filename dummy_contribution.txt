@@ -261,3 +261,4 @@ Commit on 2026-06-17 16:34:27: Fix race condition in Explainable-AI-Toolkit
 Commit on 2026-06-23 13:53:03: chore: Update dependencies for Explainable-AI-Toolkit
 Commit on 2026-06-24 11:12:02: test: Add unit tests for Explainable-AI-Toolkit functionality
 Commit on 2026-06-24 13:32:53: fix: Resolve bug in Explainable-AI-Toolkit module
+Commit on 2026-06-26 17:01:00: docs: Update README for Explainable-AI-Toolkit
