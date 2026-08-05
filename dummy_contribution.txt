@@ -275,3 +275,4 @@ Commit on 2026-07-21 13:28:34: chore: Update dependencies for Explainable-AI-Too
 Commit on 2026-07-27 10:28:18: Implement caching strategy in Explainable-AI-Toolkit
 Commit on 2026-07-30 10:26:38: feat: Add new feature for Explainable-AI-Toolkit
 Commit on 2026-08-03 09:43:36: style: Format code according to standards in Explainable-AI-Toolkit
+Commit on 2026-08-05 11:29:00: Fix off-by-one error in Explainable-AI-Toolkit
