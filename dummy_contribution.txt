@@ -278,3 +278,4 @@ Commit on 2026-08-03 09:43:36: style: Format code according to standards in Expl
 Commit on 2026-08-05 11:29:00: Fix off-by-one error in Explainable-AI-Toolkit
 Commit on 2026-08-10 17:56:26: Initial commit for Explainable-AI-Toolkit
 Commit on 2026-08-14 10:45:23: Initial commit for Explainable-AI-Toolkit
+Commit on 2026-08-17 13:53:49: refactor: Improve code readability in Explainable-AI-Toolkit
